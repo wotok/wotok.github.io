@@ -38,7 +38,7 @@ nav_order: 1
 ### Topics of Interest
 
 TBD
-<!--0 For NLP models to be usable in practice, particularly in emerging scenarios with widely varying use cases, situations, and user expectations, there is a need to develop models that can be tailored to different consumers (individuals, groups, or organizations) and easily controlled by them; models that can reason about their users’ (often private) knowledge and context to provide personalized responses. The topics of this workshop include (but not limited to):
+<!--- For NLP models to be usable in practice, particularly in emerging scenarios with widely varying use cases, situations, and user expectations, there is a need to develop models that can be tailored to different consumers (individuals, groups, or organizations) and easily controlled by them; models that can reason about their users’ (often private) knowledge and context to provide personalized responses. The topics of this workshop include (but not limited to):
 
 * __Data__: Data collection, processing, analysis, and annotation efforts to increase representation and aid customization; discussion and analysis of data sources not publicly available, and associated issues of privacy and copyright.
 * __Modeling__: New pretraining, fine-tuning, inference methods for customizing NLP models; customizing reward models and model alignment to diverse consumers. New modeling paradigms aimed at customization such as model ensembles, model averaging, federated learning, nonparametric models, etc.; customizing models at inference time via prompting, in-context learning, chain-of-thought prompting, etc.
