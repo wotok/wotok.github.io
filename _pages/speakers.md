@@ -7,60 +7,7 @@ nav_order: 2
 ---
 
 ## Talks
-<html>
-    <div class="team-container">
-        <div class="team-member">
-            <img src="#" alt="TBD">
-            <p><a href="#">TBD</a>
-            <br>Stanford University</p>
-        </div>
-        <!-- <div class="team-member">
-            <img src="/assets/img/speakers/hannah.jpeg" alt="Hannah Rose Kirk">
-            <p><a href="https://www.hannahrosekirk.com/">Hannah Rose Kirk</a>
-            <br>University of Oxford</p>
-        </div>
-        <div class="team-member">
-            <img src="/assets/img/speakers/jared.jpg" alt="Jared Roesch">
-            <p><a href="https://jroesch.github.io/">Jared Roesche</a>
-            <br>Nvidia, ex-Octo AI, University of Washington</p>
-        </div>
-        <div class="team-member">
-            <img src="/assets/img/speakers/maartje.jpg" alt="Maartje Ter Hoeve">
-            <p><a href="https://maartjeth.github.io">Maartje ter Hoeve</a>
-            <br>Apple ML Research</p>
-        </div> -->
-        <!-- <div class="team-member">
-            <img src="/assets/img/speakers/x.jpg" alt="Mitchell">
-            <p><a href="#">Mitchell</a>
-            <br>Columbia University</p>
-        </div> -->
-    </div>
-</html>
-
-<!-- <html>
-    <div class="team-container">
-        <div class="team-member">
-            <img src="/assets/img/speakers/hannah.jpg" alt="Hannah Rose Kirk">
-            <p><a href="https://www.hannahrosekirk.com/">Hannah Rose Kirk</a>
-            <br>University of Oxford</p>
-        </div>
-        <div class="team-member">
-            <img src="/assets/img/speakers/jared.jpg" alt="Jared Roesch">
-            <p><a href="https://jroesch.github.io/">Jared Roesche</a>
-            <br>Octo AI, University of Washington</p>
-        </div>
-        <div class="team-member">
-            <img src="/assets/img/speakers/diyi.jpg" alt="Diyi Yang">
-            <p><a href="https://cs.stanford.edu/~diyiy/">Diyi Yang</a>
-            <br>Stanford University</p>
-        </div>
-        <!-- <div class="team-member">
-            <img src="/assets/img/speakers/x.jpg" alt="Mitchell">
-            <p><a href="#">Mitchell</a>
-            <br>Columbia University</p>
-        </div>
-    </div>
-</html> -->
+ TBD
 
 
 <style>
