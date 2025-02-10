@@ -2,7 +2,7 @@
 layout: default2
 title: home
 permalink: /
-title: <h3  align="center">Workshop on CustomNLP4U</h3>
+title: <h3  align="center">Workshop on Tokenization</h3>
 nav_order: 1
 ---
 
@@ -32,7 +32,7 @@ nav_order: 1
 * Camera-ready papers due: TBD (11:59pm, anywhere on earth)
 * Workshop Date: TBD
 
-<!-- **EMNLP Findings Papers:** If you would like to present your findings paper as a poster at our workshop, please email us at customnlp4u@gmail.com by October 20th. In your email, please include the following details: the title, abstract, a link to the paper, and a brief explanation of how the paper fits with the theme of our workshop. -->
+<!--- **EMNLP Findings Papers:** If you would like to present your findings paper as a poster at our workshop, please email us at customnlp4u@gmail.com by October 20th. In your email, please include the following details: the title, abstract, a link to the paper, and a brief explanation of how the paper fits with the theme of our workshop. -->
 <br>
 
 ### Topics of Interest
