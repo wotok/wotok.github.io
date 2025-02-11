@@ -58,14 +58,12 @@ Our author guidelines follow the TBD requirements unless otherwise specified.
     <div class="team-container">
         <div class="team-member">
             <img src="/assets/img/organizers/tomasz.jpeg" alt="Name 1">
-            <p><a href="ttps://tomlimi.github.io/">Tomasz Limisiewicz</a>
-            <br></p>
+            <p><a href="ttps://tomlimi.github.io/">Tomasz Limisiewicz</a></p>
             <p>Charles University</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/organizers/valentin.jpeg" alt="Name 4">
-            <p><a href="https://valentinhofmann.github.io/">Valentin Hofmann</a>
-            <br></p>
+            <p><a href="https://valentinhofmann.github.io/">Valentin Hofmann</a></p>
             <p>Allen Institute for AI<br>University of Washington</p>
         </div>
         <div class="team-member">
@@ -75,14 +73,12 @@ Our author guidelines follow the TBD requirements unless otherwise specified.
         </div>
         <div class="team-member">
             <img src="/assets/img/organizers/libovicky.jpg" alt="Name 3">
-            <p><a href="https://ufal.mff.cuni.cz/jindrich-libovicky">Jindřich Libovický</a>
-            <br></p>
+            <p><a href="https://ufal.mff.cuni.cz/jindrich-libovicky">Jindřich Libovický</a></p>
             <p>Charles University<p>
         </div>
         <div class="team-member">
             <img src="/assets/img/organizers/jindra.jpg" alt="Name 2">
-            <p><a href="https://ufal.mff.cuni.cz/jindrich-helcl">Jindřich Helcl</a>
-            <br></p>
+            <p><a href="https://ufal.mff.cuni.cz/jindrich-helcl">Jindřich Helcl</a></p>
             <p>Charles University</p>
         </div>
     </div>
