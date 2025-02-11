@@ -57,30 +57,31 @@ Our author guidelines follow the TBD requirements unless otherwise specified.
 <html>
     <div class="team-container">
         <div class="team-member">
-            <img src="/assets/img/organizers/sachin.png" alt="Name 1">
+            <img src="/assets/img/organizers/sachin.png" alt="Name 5">
             <a href="https://sites.google.com/view/sachinkumar">Sachin Kumar</a>
             <p>The Ohio State University</p>
         </div>
-        <!-- <div class="team-member">
-            <img src="/assets/img/organizers/chan.jpg" alt="Name 3">
-            <p><a href="https://chan0park.github.io/">Chan Young Park</a>
-            <br>Carnegie Mellon University</p>
+        <div class="team-member">
+            <img src="/assets/img/organizers/jindra.jpg" alt="Name 2">
+            <p><a href="https://ufal.mff.cuni.cz/jindrich-helcl">Jindřich Helcl</a>
+            <br></p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/vidhisha.jpg" alt="Name 4">
-            <p><a href="https://vidhishanair.github.io/">Vidhisha Balachandran</a>
-            <br>Microsoft Research</p>
+            <img src="/assets/img/organizers/valentin.jpeg" alt="Name 4">
+            <p><a href="https://valentinhofmann.github.io/">Valentin Hofmann</a>
+            <br></p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/weijia.png" alt="Name 2">
-            <p><a href="https://swj0419.github.io/">Weijia Shi</a>
-            <br>University of Washington</p>
+            <img src="/assets/img/organizers/tomasz.jpg" alt="Name 1">
+            <p><a href="ttps://tomlimi.github.io/">Tomasz Limisiewicz</a>
+            <br></p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/shirley.jpeg" alt="Name 5">
-            <p><a href="https://www.shirley.id/">Shirley Anugrah Hayati</a>
-            <br>University of Minnesota, Twin Cities</p>
-        </div> -->
+            <img src="/assets/img/organizers/libovicky.jpg" alt="Name 3">
+            <p><a href="https://ufal.mff.cuni.cz/jindrich-libovicky">Jindřich Libovický</a>
+            <br></p>
+        </div>
+        
     </div>
 </html>
 <br>
