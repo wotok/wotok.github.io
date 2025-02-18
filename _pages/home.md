@@ -81,6 +81,11 @@ Our author guidelines follow the TBD requirements unless otherwise specified.
             <a href="https://ufal.mff.cuni.cz/jindrich-helcl">Jindřich Helcl</a>
             <p>Charles University</p>
         </div>
+        <div class="team-member">
+            <img src="/assets/img/organizers/oreva.jpg" alt="Name 6">
+            <a href="https://orevaahia.github.io/">Orevaoghene Ahia</a>
+            <p>University of Washington</p>
+        </div>
     </div>
 </html>
 <br>
