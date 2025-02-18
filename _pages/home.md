@@ -78,13 +78,18 @@ Our author guidelines follow the TBD requirements unless otherwise specified.
         </div>
         <div class="team-member">
             <img src="/assets/img/organizers/jindra.jpg" alt="Name 2">
-            <a href="https://ufal.mff.cuni.cz/jindrich-helcl">Jindřich Helcl</a>
-            <p>Charles University</p>
+            <a href="https://ufal.mff.cuni.cz/jindrich-libovicky">Jindřich Helcl</a>
+            <p>Charles University<p>
         </div>
     </div>
 </html>
 <br>
 
+<!-- <div class="team-member">
+            <img src="/assets/img/organizers/jindra.jpg" alt="Name 2">
+            <a href="https://ufal.mff.cuni.cz/jindrich-helcl">Jindřich Helcl</a>
+            <p>Charles University</p>
+        </div> -->
 
 <style>
     /* Style for the team container */
