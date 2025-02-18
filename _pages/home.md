@@ -82,7 +82,7 @@ Our author guidelines follow the TBD requirements unless otherwise specified.
             <p>Charles University</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/oreva.jpg" alt="Name 6">
+            <img src="/assets/img/organizers/oreva.jpeg" alt="Name 6">
             <a href="https://orevaahia.github.io/">Orevaoghene Ahia</a>
             <p>University of Washington</p>
         </div>
