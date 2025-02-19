@@ -86,6 +86,11 @@ Our author guidelines follow the TBD requirements unless otherwise specified.
             <a href="https://orevaahia.github.io/">Orevaoghene Ahia</a>
             <p>University of Washington</p>
         </div>
+        <div class="team-member">
+            <img src="/assets/img/organizers/liz.jpeg" alt="Name 7">
+            <a href="https://esalesky.github.io/">Elizabeth Salesky</a>
+            <p>Google Deepmind</p>
+        </div>
     </div>
 </html>
 <br>
